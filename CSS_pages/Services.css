@@ -1,0 +1,12 @@
+.img_container{
+	float: left;
+	border: 3px dashed #fff000;
+	margin: 8px;
+	margin-bottom: 20px;
+	width: 30%;
+	background-color: #C0C0C0;
+	box-sizing: border-box;
+	height: 540px;
+	padding: 15px;
+
+}

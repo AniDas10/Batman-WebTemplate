@@ -1,0 +1,22 @@
+.left_container{
+	float: left;
+	width: 700px;
+	height: 185px;
+	background-color: lightgrey;
+	border-left-color: #fff000;
+	border-left-width: 5px;
+	border-left-style: solid;
+	margin: 10px;
+	margin-bottom: 15px;
+}
+.right_container{
+	float: right;
+	width: 700px;
+	height: 185px;
+	background-color: lightgrey;
+	border-right-color: #fff000;
+	border-right-width: 5px;
+	border-right-style: solid;
+	margin: 10px;
+	margin-bottom: 15px;
+}
